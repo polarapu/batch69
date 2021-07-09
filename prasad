@@ -45,3 +45,16 @@ git commit -m "test commit" prasad
 git status
 git log
 git push
+
+========================
+git clone https://github.com/polarapu/batch69.git
+ls
+cd batch69
+touch name
+git status
+git add name
+git status
+git commit -m "test commit" name
+git status
+git log
+git push
