@@ -58,3 +58,13 @@ git commit -m "test commit" name
 git status
 git log
 git push
+
+mkdir prasad-dir
+cd prasad-dir
+touch a1 a2 a3
+cd ..
+git add *
+git commit -m "dir commit"
+git push
+
+
