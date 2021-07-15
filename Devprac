@@ -1,0 +1,14 @@
+$ git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+
+User@DESKTOP-UP38U0H MINGW64 /e/git (master)
+$ git clone https://github.com/Dawaljimahadev/batch69.git
+fatal: destination path 'batch69' already exists and is not an empty directory.
